@@ -1,0 +1,32 @@
+# Laravel specific
+/node_modules
+/public/hot
+/vendor
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# IDEs and text editors
+/.idea
+/.vscode
+*.sublime-workspace
+*.sublime-project
+
+# Compiled output
+/public/css
+/public/js
+/public/mix-manifest.json
+
+# User-specific files
+Homestead.yaml
+Homestead.json
+
+# Logs and backups
+/storage/*.log
+/storage/*.sql
+/storage/*.sqlite
+
+# Testing databases
+/testing/database.sqlite
